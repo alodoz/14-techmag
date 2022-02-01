@@ -11,3 +11,7 @@ body {
   max-width: 320px;
   margin: auto;
 }
+
+img {
+  width: 500px;
+}
