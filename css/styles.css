@@ -1,0 +1,33 @@
+/*
+  font-family: 'Montserrat', sans-serif; 100it/800
+  font-family: 'Open Sans', sans-serif; 400/400it/700/700it
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 320px;
+  margin: auto;
+  background-color: black;
+  color: white;
+}
+
+header div {
+  border: 2px white solid;
+  margin-top: 20px;
+  width: 320px;
+  height: 200px;
+  background-image: url("../img/fond-code.jpg");
+}
+
+header h1 {
+  margin-left: 30px;
+  margin-top: 55px;
+}
+
+header p {
+  margin-left: 30px;
+  margin-right: 30px;
+}
