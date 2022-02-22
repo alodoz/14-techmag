@@ -15,7 +15,7 @@ body {
   font-size: 16px;
 }
 
-.site_header div {
+.site-header div {
   border: 2px white solid;
   margin-top: 20px;
   width: 316px;
@@ -26,13 +26,13 @@ body {
   padding-bottom: 30px;
 }
 
-.site_header h1 {
+.site-header h1 {
   margin-left: 30px;
   margin-top: 50px;
   font-size: 25px;
 }
 
-.site_header p {
+.site-header p {
   margin-left: 30px;
   margin-right: 30px;
 }
@@ -94,7 +94,7 @@ article p {
   color: black;
 }
 
-.auteur {
+.author {
   color: #18fca8;
 }
 
@@ -127,7 +127,7 @@ a {
   font-weight: bold;
 }
 
-.site_footer div {
+.site-footer div {
   border: 2px solid #18fca8;
   padding: 15px;
   color: white;
